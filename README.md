@@ -1,6 +1,6 @@
-#FIX UNLOCK SKIN AOV
-#UPDATE 1.60.1.7.2
-#list skin
+# FIX UNLOCK SKIN AOV - 10/30/2025......
+# UPDATE 1.60.1.7.2 by BAONGUYEN02......
+#=====list skin lỗi mạng khi bật unlock skin=====
 
 -->10611 : [●]Krixi Lốc xoáy kinh hoàng Tatsumaki (Recall + HeadFrame + Sound)
 -->10620 : [●]Krixi Phù thủy thời không (Recall + HeadFrame + Sound)
