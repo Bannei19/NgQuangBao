@@ -13,14 +13,7 @@
 
 -->11215 : [●]Yorn Conan Edogawa (Recall + HeadFrame + Sound)
 
--->11616 : [●]Butterfly Nữ thần Khởi nguyên (Recall + HeadFrame + Sound)
-(chua fix)-->11610 : [●]Butterfly Asuna Tia Chớp (HeadFrame + Sound)
-(chua fix)-->11611 : [●]Butterfly Stacia (Recall + Sound)
-
-(chua fix)-->12912 : [●]Triệu Vân Minh Chung Long Đế (Recall + HeadFrame + Sound)
-
 -->13011 : [●]Airi Bích Hải thánh nữ (Recall + HeadFrame + Sound)
--->13015 : [●]Airi Thứ nguyên Vệ thần (Recall + HeadFrame + Sound)
 
 -->13210 : [●]Hayate Tu Di thánh đế (Recall + Sound)
 -->13213 : [●]Hayate Siêu đạo chích Kid (Recall + HeadFrame + Sound)
