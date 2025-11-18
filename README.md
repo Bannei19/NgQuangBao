@@ -19,21 +19,16 @@
 -->13213 : [●]Hayate Siêu đạo chích Kid (Recall + HeadFrame + Sound)
 
 -->13609 : [●]Ilumia Khải Huyền Thiên Hậu (Recall + HeadFrame + Sound)
+-->13613 : [●]Ilumia Lưỡng Nghi Long Hậu (Recall + HeadFrame + Sound)
 
 -->14111 : [●]Lauriel Thứ nguyên vệ thần (Recall + HeadFrame + Sound)
 
 -->15013 : [●]Nakroth Quỷ thương Liệp đế (Recall + HeadFrame + Sound)
 -->15015 : [●]Nakroth Bạch Diện chiến thương (Recall + HeadFrame + Sound)
 
-(chua fix)-->15412 : [●]Yena Huyền Cửu Thiên (Recall + HeadFrame + Sound)
-(chua fix)-->15413 : [●]Yena Trấn Yêu Thần Lộc (Recall + HeadFrame + Sound)
-
 -->15710 : [●]Raz Bão vũ Cuồng lôi (Recall + HeadFrame + Sound)
 
 -->16707 : [●]Ngộ Không Nhóc tì bá đạo (Recall + HeadFrame + Sound)
--->16712 : [●]Ngộ Không Tề Thiên Võ Thánh (Recall + HeadFrame + Sound)
-
-(chua fix)-->19009 : [●]Tulen Thần sứ STL-79 (Recall + HeadFrame + Sound)
 
 -->19908 : [●]Elando'rr Mộng Giới Thần Chủ (Recall + HeadFrame + Sound)
 
