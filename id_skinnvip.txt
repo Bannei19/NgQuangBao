@@ -1,6 +1,6 @@
    ID TƯỚNG & SKINS ARENA OF VALOR
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-✦ File cập nhật lúc: 02/05/2026 23:23:40
+✦ File cập nhật lúc: 28/05/2026 05:03:20
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 (*) Chú Thích :
 • HeadFrame: Viền tr.phục, skin:
@@ -246,7 +246,7 @@
 -->12402 : [○]Ignis Quang vinh
 -->12403 : [●]Ignis Bắc băng vương (Sound)
 -->12404 : [○]Ignis Thầy tế mặt trời
--->12405 : [○]Ignis Thần mặt trời
+-->12405 : [●]Ignis Thần mặt trời (Sound)
 -->12406 : [●]Ignis Nguyệt lão (Sound)
 -->12407 : [●]Ignis Vì sao con khóc (Sound)
 -->
@@ -260,6 +260,7 @@
 -->12607 : [○]Arduin Organ cổ quái
 -->12608 : [●]Arduin Ngạo Hổ Hàn Đao (Recall + Sound)
 -->12609 : [○]Arduin Nhà vô địch
+-->12610 : [○]Arduin Đồng dao mây trắng
 -->
 127_ZhenJi
 -->12701 : [○]Azzen'Ka Hoàng tử cát
@@ -478,6 +479,7 @@
 -->14610 : [○]Zill Quái xế
 -->14611 : [○]Zill Con quay gió
 -->14612 : [●]Zill Siêu việt (Sound)
+-->14613 : [○]Zill Bậc Thầy Sushi
 -->
 148_JiangZiYa
 -->14801 : [○]Preyta Không tặc
@@ -587,6 +589,7 @@
 -->15901 : [●]Dolia Hoa tiêu đại dương (Sound)
 -->15902 : [○]Dolia Môn đồ tập sự
 -->15903 : [●]Dolia Nhật Ký Tình Yêu (Recall + HeadFrame + Sound)
+-->15904 : [●]Dolia Huyễn Ngọc Nhân Ngư (Sound)
 -->15905 : [●]Dolia Mã Khởi Thiên Ca (Recall + Sound)
 -->
 162_Nakoruru
@@ -797,6 +800,7 @@
 -->19013 : [●]Tulen Tiêu Dao Vũ Thần (Recall + HeadFrame + Sound)
 -->19014 : [●]Tulen Giám thị sấm sét (Sound)
 -->19015 : [●]Tulen Satoru Gojo (Recall + HeadFrame + Sound)
+-->19016 : [●]Tulen Thiên Cơ Bạch Trạch (Recall + Sound)
 -->
 191_DaQiao
 -->19101 : [○]Rouie Sứ giả vũ trụ
@@ -966,6 +970,7 @@
 -->50904 : [○]Y'bneth Mộc quỷ
 -->50905 : [●]Y'bneth Titan Băng giá (Sound)
 -->50906 : [○]Y'bneth Candy Bear
+-->50907 : [●]Y'bneth Đồng dao mây trắng (Sound)
 -->
 510_Liliana
 -->51001 : [○]Liliana Hồ quý phi
@@ -1199,6 +1204,7 @@
 -->53110 : [○]Keera Hồ điệp
 -->53111 : [●]Keera Môn đồ Xảo quyệt (Sound)
 -->53112 : [●]Keera Quán quân (Sound)
+-->53113 : [●]Keera Yêu Thần Nekomata (Sound)
 -->
 532_Genius
 -->53201 : [○]Thorne Cận vệ hoàng gia
@@ -1360,6 +1366,7 @@
 -->56702 : [●]Erin Cực địa tinh linh
 -->56703 : [●]Erin Tình yêu cổ tích (Recall + Sound)
 -->56704 : [●]Erin Huyễn Ảnh Mị Điệp (Recall + Sound)
+-->56705 : [●]Erin Đồng dao mây trắng (Sound)
 -->
 568_MingShiYin
 -->56801 : [○]Ming Thầy tướng
