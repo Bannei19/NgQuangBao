@@ -4,7 +4,7 @@
 > **Cảnh báo lỗi mạng:** Các trang phục (skin) dưới đây hiện đang gặp sự cố kết nối mạng khi bật tính năng Unlock Skin.
 > 👉 *Khuyến nghị tắt mod các skin này để tránh văng game hoặc lỗi trận.*
 
-![Update](https://img.shields.io/badge/CẬP_NHẬT-28/05/2026-blue?style=flat-square) ![Time](https://img.shields.io/badge/THỜI_GIAN-05:07:32-orange?style=flat-square) ![Status](https://img.shields.io/badge/STATUS-FIXING-red?style=flat-square)
+![Update](https://img.shields.io/badge/CẬP_NHẬT-02/06/2026-blue?style=flat-square) ![Time](https://img.shields.io/badge/THỜI_GIAN-07:35:23-orange?style=flat-square) ![Status](https://img.shields.io/badge/STATUS-FIXING-red?style=flat-square)
 
 ---
 
@@ -38,10 +38,12 @@
 - `17108` ⬩ **Cresht:** Eren Jaegar `[Biến Về, Âm Thanh]`
 - `17408` ⬩ **Stuart:** Siêu trùm phản diện `[Biến Về, Khung, Âm Thanh]`
 - `18408` ⬩ **Helen:** Bé hoa xuân `[Biến Về, Âm Thanh]`
+- `19016` ⬩ **Tulen:** Thiên Cơ Bạch Trạch `[Biến Về, Âm Thanh]`
 - `19908` ⬩ **Eland'orr:** Mộng Giới Thần Chủ `[Biến Về, Khung, Âm Thanh]`
 - `50119` ⬩ **Tel'annas:** Lân Quang Thánh Điệu `[Biến Về, Khung, Âm Thanh]`
 - `52414` ⬩ **Capheny:** Càn Nguyên Điện Chủ `[Biến Về, Khung, Âm Thanh]`
 - `52809` ⬩ **Qi:** Milim Nava `[Biến Về, Khung, Âm Thanh]`
+- `53113` ⬩ **Keera:** Yêu Thần Nekomata `[Biến Về, Khung, Âm Thanh]`
 - `53612` ⬩ **Aoi:** Mikasa `[Biến Về, Âm Thanh]`
 - `53806` ⬩ **Iggy:** Rimuru Tempest `[Biến Về, Khung, Âm Thanh]`
 - `54507` ⬩ **Yue:** Hỗn Độn Thần Ma `[Biến Về, Khung, Âm Thanh]`
@@ -49,3 +51,4 @@
 - `59702` ⬩ **Biron:** Yuji Itadori `[Biến Về, Khung, Âm Thanh]`
 - `59802` ⬩ **Bolt Baron:** Thiên Phủ - Tư Mệnh `[Biến Về, Khung, Âm Thanh]`
 - `59901` ⬩ **Billow:** Thiên Tướng - Độ Ách `[Biến Về, Khung, Âm Thanh]`
+
